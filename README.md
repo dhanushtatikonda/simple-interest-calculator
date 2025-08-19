@@ -6,3 +6,4 @@ This repository contains a Bash script to calculate simple interest.
 Run the script:
 ```bash
 bash simple-interest.sh
+2022 XYZ, Inc.
