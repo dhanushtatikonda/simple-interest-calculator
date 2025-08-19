@@ -7,3 +7,4 @@ Run the script:
 ```bash
 bash simple-interest.sh
 2022 XYZ, Inc.
+2023 XYZ, Inc.
